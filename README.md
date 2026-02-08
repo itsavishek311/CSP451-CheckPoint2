@@ -42,3 +42,6 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+## Database
+This project includes a simulated database connection module.
+Configuration variables are documented in the .env.example file.
