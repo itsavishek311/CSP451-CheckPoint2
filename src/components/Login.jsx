@@ -25,6 +25,8 @@ const Login = () => {
   return (
     <div>
       <h2>User Login</h2>
+      // Basic client-side validation for login form
+
 
       {error && <p style={{ color: "red" }}>{error}</p>}
 
