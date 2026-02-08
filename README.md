@@ -42,3 +42,5 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+## Authentication
+This feature adds a login form with basic email and password validation.
