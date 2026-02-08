@@ -4,6 +4,9 @@ implemented with form validation.
 
 
 # CSP451 Web Starter — Week 2 Checkpoint 2
+## Project Overview
+This project provides REST API endpoints
+for managing users.
 
 This repository is a **starter template** for practicing:
 - Git branching strategies (GitHub Flow / Git Flow-lite)
@@ -47,5 +50,12 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+HEAD
 ## Authentication
 This feature adds a login form with basic email and password validation.
+
+## API
+The application exposes REST API endpoints.
+Available endpoint:
+- GET /api/users
+feature/api-endpoints
