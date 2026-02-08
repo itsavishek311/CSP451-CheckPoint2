@@ -1,4 +1,7 @@
 # CSP451 Web Starter — Week 2 Checkpoint 2
+## Project Overview
+This project provides REST API endpoints
+for managing users.
 
 This repository is a **starter template** for practicing:
 - Git branching strategies (GitHub Flow / Git Flow-lite)
